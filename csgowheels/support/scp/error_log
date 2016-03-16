@@ -1,0 +1,12 @@
+[06-Sep-2015 15:43:21] PHP Parse error:  syntax error, unexpected T_STATIC in /home1/csgowhee/public_html/support/include/class.plugin.php on line 161
+[06-Sep-2015 15:43:29] PHP Parse error:  syntax error, unexpected T_STATIC in /home1/csgowhee/public_html/support/include/class.plugin.php on line 161
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 308
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 246
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 278
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 308
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 246
+[13-Sep-2015 14:37:51 America/Denver] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/pear/Mail/RFC822.php on line 278
+[13-Sep-2015 14:37:52 America/Denver] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/class.csrf.php on line 74
+[13-Sep-2015 14:37:52 America/Denver] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/class.csrf.php on line 74
+[13-Sep-2015 14:41:50 America/Denver] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/class.csrf.php on line 74
+[13-Sep-2015 14:42:07 America/Denver] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/csgowhee/public_html/support/include/class.csrf.php on line 74

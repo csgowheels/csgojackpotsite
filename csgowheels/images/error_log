@@ -1,0 +1,9 @@
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  include(header1.php): failed to open stream: No such file or directory in /home/csgowhee/public_html/images/profile.php on line 2
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  include(header1.php): failed to open stream: No such file or directory in /home/csgowhee/public_html/images/profile.php on line 2
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  include(): Failed opening 'header1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csgowhee/public_html/images/profile.php on line 2
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/images/profile.php on line 23
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/images/profile.php on line 23
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/csgowhee/public_html/images/profile.php on line 24
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/csgowhee/public_html/images/profile.php on line 25
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/images/profile.php on line 182
+[13-Sep-2015 14:26:12 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/images/profile.php on line 182

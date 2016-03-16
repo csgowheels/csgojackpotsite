@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+#Header {
+    align: center;
+    background-color: white;
+    color: black;
+    border: 2px solid #000;
+    margin-top: 15%;
+}
+
+#Content {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin-left 5%;
+    border: 2px solid #000;
+}

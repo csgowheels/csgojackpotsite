@@ -1,0 +1,32 @@
+[22-Aug-2015 18:17:25 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/csgohous/public_html/csgowheels.com/admin/price.php:2) in /home/csgohous/public_html/csgowheels.com/admin/connect.php on line 1
+[22-Aug-2015 18:18:38 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/csgohous/public_html/csgowheels.com/admin/price.php:2) in /home/csgohous/public_html/csgowheels.com/admin/connect.php on line 1
+[11-Sep-2015 15:36:15 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:36:15 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:36:15 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:37:51 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:37:51 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:37:51 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:37:59 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:37:59 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:37:59 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:45:11 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:45:11 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:45:11 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:48:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:19 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:48:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:26 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:48:29 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:29 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:29 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:48:31 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:31 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 11
+[11-Sep-2015 15:48:31 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csgowhee/public_html/admin/user.php:2) in /home/csgowhee/public_html/admin/user.php on line 17
+[11-Sep-2015 15:52:42 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'csgowhee'@'localhost' (using password: NO) in /home/csgowhee/public_html/admin/user.php on line 12
+[11-Sep-2015 15:52:42 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/csgowhee/public_html/admin/user.php on line 12
+[13-Sep-2015 16:48:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/csgowhee/public_html/admin/login.php on line 104
+[13-Sep-2015 16:49:16 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/csgowhee/public_html/admin/login.php on line 104
+[13-Sep-2015 16:50:04 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/csgowhee/public_html/admin/login.php on line 30
+[13-Sep-2015 16:50:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/csgowhee/public_html/admin/login.php on line 104

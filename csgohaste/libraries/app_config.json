@@ -1,0 +1,37 @@
+{
+	"general_config": {
+		"router": {
+			"server_prefix": "/new",
+			"controller_postfix": "Controller",
+			"controller_path_postfix": "_controller.php",
+			"action_postfix": "_action"
+		},
+		"routes": {
+			"separator": "#",
+			"param_escape": "!:!",
+			"/": "index#welcome"
+		},
+		"defaults": {
+			"controller_name": "Acko\\Defaults\\IndexController",
+            "controller_path": "/index_controller.php",
+			"action_name": "index_action"
+		},
+        "app": {
+            "app_namespace": "CSGOwheels\\"
+        }
+	},
+	
+	"path_config": {
+        "SERVER_PATH": "C:/D/Acko/biznis/csgowheels.git/new",
+        "URL": "http://localhost:8080",
+        "app_path_postfix": "/app",
+        "lib_path_postfix": "/libraries",
+        "public_path_postfix": "/public",
+        "defaults_path_postfix": "/framework/defaults",
+		"controller_path_postfix": "/controllers",
+		"model_path_postfix": "/models",
+		"view_path_postfix": "/views",
+        "css_path_postfix": "/public/css",
+        "js_path_postfix": "/public/js"
+	}
+}

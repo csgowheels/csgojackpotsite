@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+
+canvas {
+  background: #000;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+    
+
+
+}
